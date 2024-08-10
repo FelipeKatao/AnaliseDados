@@ -1,0 +1,144 @@
+{
+    "empresas": [
+        {
+            "nome": "SEDE A",
+            "produtos": [
+                {
+                    "id": 8,
+                    "vendas": 7000,
+                    "lucro": 3000,
+                    "quantidade_vendida": 140
+                },
+                {
+                    "id": 15,
+                    "vendas": 9000,
+                    "lucro": 4000,
+                    "quantidade_vendida": 180
+                },
+                {
+                    "id": 22,
+                    "vendas": 12000,
+                    "lucro": 5000,
+                    "quantidade_vendida": 240
+                },
+                {
+                    "id": 33,
+                    "vendas": 16000,
+                    "lucro": 7000,
+                    "quantidade_vendida": 320
+                },
+                {
+                    "id": 45,
+                    "vendas": 10000,
+                    "lucro": 4000,
+                    "quantidade_vendida": 200
+                }
+            ]
+        },
+        {
+            "nome": "SEDE B",
+            "produtos": [
+                {
+                    "id": 1,
+                    "vendas": 25000,
+                    "lucro": 11000,
+                    "quantidade_vendida": 500
+                },
+                {
+                    "id": 17,
+                    "vendas": 20000,
+                    "lucro": 9000,
+                    "quantidade_vendida": 400
+                },
+                {
+                    "id": 28,
+                    "vendas": 18000,
+                    "lucro": 8000,
+                    "quantidade_vendida": 360
+                },
+                {
+                    "id": 35,
+                    "vendas": 30000,
+                    "lucro": 12000,
+                    "quantidade_vendida": 600
+                },
+                {
+                    "id": 42,
+                    "vendas": 15000,
+                    "lucro": 6000,
+                    "quantidade_vendida": 300
+                }
+            ]
+        },
+        {
+            "nome": "SEDE C",
+            "produtos": [
+                {
+                    "id": 3,
+                    "vendas": 22000,
+                    "lucro": 10000,
+                    "quantidade_vendida": 440
+                },
+                {
+                    "id": 19,
+                    "vendas": 14000,
+                    "lucro": 5000,
+                    "quantidade_vendida": 280
+                },
+                {
+                    "id": 27,
+                    "vendas": 16000,
+                    "lucro": 7000,
+                    "quantidade_vendida": 320
+                },
+                {
+                    "id": 39,
+                    "vendas": 18000,
+                    "lucro": 8000,
+                    "quantidade_vendida": 360
+                },
+                {
+                    "id": 49,
+                    "vendas": 13000,
+                    "lucro": 6000,
+                    "quantidade_vendida": 260
+                }
+            ]
+        },
+        {
+            "nome": "SEDE D",
+            "produtos": [
+                {
+                    "id": 5,
+                    "vendas": 27000,
+                    "lucro": 12000,
+                    "quantidade_vendida": 540
+                },
+                {
+                    "id": 12,
+                    "vendas": 29000,
+                    "lucro": 14000,
+                    "quantidade_vendida": 580
+                },
+                {
+                    "id": 23,
+                    "vendas": 30000,
+                    "lucro": 15000,
+                    "quantidade_vendida": 600
+                },
+                {
+                    "id": 31,
+                    "vendas": 25000,
+                    "lucro": 10000,
+                    "quantidade_vendida": 500
+                },
+                {
+                    "id": 48,
+                    "vendas": 22000,
+                    "lucro": 9000,
+                    "quantidade_vendida": 440
+                }
+            ]
+        }
+    ]
+}

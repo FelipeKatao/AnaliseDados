@@ -1,0 +1,204 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "preco_sugerido": 60,
+            "quantidade_disponivel": {
+                "SEDE A": 50,
+                "SEDE B": 40,
+                "SEDE C": 30,
+                "SEDE D": 30
+            }
+        },
+        {
+            "id": 3,
+            "preco_sugerido": 55,
+            "quantidade_disponivel": {
+                "SEDE A": 60,
+                "SEDE B": 50,
+                "SEDE C": 45,
+                "SEDE D": 45
+            }
+        },
+        {
+            "id": 5,
+            "preco_sugerido": 50,
+            "quantidade_disponivel": {
+                "SEDE A": 70,
+                "SEDE B": 60,
+                "SEDE C": 60,
+                "SEDE D": 60
+            }
+        },
+        {
+            "id": 8,
+            "preco_sugerido": 25,
+            "quantidade_disponivel": {
+                "SEDE A": 80,
+                "SEDE B": 70,
+                "SEDE C": 75,
+                "SEDE D": 75
+            }
+        },
+        {
+            "id": 12,
+            "preco_sugerido": 48,
+            "quantidade_disponivel": {
+                "SEDE A": 25,
+                "SEDE B": 25,
+                "SEDE C": 25,
+                "SEDE D": 25
+            }
+        },
+        {
+            "id": 15,
+            "preco_sugerido": 41,
+            "quantidade_disponivel": {
+                "SEDE A": 60,
+                "SEDE B": 55,
+                "SEDE C": 50,
+                "SEDE D": 55
+            }
+        },
+        {
+            "id": 17,
+            "preco_sugerido": 35,
+            "quantidade_disponivel": {
+                "SEDE A": 50,
+                "SEDE B": 40,
+                "SEDE C": 45,
+                "SEDE D": 45
+            }
+        },
+        {
+            "id": 19,
+            "preco_sugerido": 42,
+            "quantidade_disponivel": {
+                "SEDE A": 40,
+                "SEDE B": 40,
+                "SEDE C": 45,
+                "SEDE D": 45
+            }
+        },
+        {
+            "id": 22,
+            "preco_sugerido": 50,
+            "quantidade_disponivel": {
+                "SEDE A": 60,
+                "SEDE B": 60,
+                "SEDE C": 60,
+                "SEDE D": 60
+            }
+        },
+        {
+            "id": 23,
+            "preco_sugerido": 52,
+            "quantidade_disponivel": {
+                "SEDE A": 40,
+                "SEDE B": 40,
+                "SEDE C": 35,
+                "SEDE D": 35
+            }
+        },
+        {
+            "id": 27,
+            "preco_sugerido": 45,
+            "quantidade_disponivel": {
+                "SEDE A": 50,
+                "SEDE B": 55,
+                "SEDE C": 55,
+                "SEDE D": 50
+            }
+        },
+        {
+            "id": 28,
+            "preco_sugerido": 46,
+            "quantidade_disponivel": {
+                "SEDE A": 50,
+                "SEDE B": 50,
+                "SEDE C": 50,
+                "SEDE D": 45
+            }
+        },
+        {
+            "id": 31,
+            "preco_sugerido": 50,
+            "quantidade_disponivel": {
+                "SEDE A": 80,
+                "SEDE B": 80,
+                "SEDE C": 70,
+                "SEDE D": 70
+            }
+        },
+        {
+            "id": 33,
+            "preco_sugerido": 58,
+            "quantidade_disponivel": {
+                "SEDE A": 70,
+                "SEDE B": 70,
+                "SEDE C": 65,
+                "SEDE D": 70
+            }
+        },
+        {
+            "id": 35,
+            "preco_sugerido": 53,
+            "quantidade_disponivel": {
+                "SEDE A": 85,
+                "SEDE B": 80,
+                "SEDE C": 80,
+                "SEDE D": 75
+            }
+        },
+        {
+            "id": 39,
+            "preco_sugerido": 47,
+            "quantidade_disponivel": {
+                "SEDE A": 50,
+                "SEDE B": 50,
+                "SEDE C": 55,
+                "SEDE D": 55
+            }
+        },
+        {
+            "id": 42,
+            "preco_sugerido": 49,
+            "quantidade_disponivel": {
+                "SEDE A": 50,
+                "SEDE B": 45,
+                "SEDE C": 40,
+                "SEDE D": 35
+            }
+        },
+        {
+            "id": 45,
+            "preco_sugerido": 52,
+            "quantidade_disponivel": {
+                "SEDE A": 45,
+                "SEDE B": 45,
+                "SEDE C": 50,
+                "SEDE D": 50
+            }
+        },
+        {
+            "id": 48,
+            "preco_sugerido": 55,
+            "quantidade_disponivel": {
+                "SEDE A": 55,
+                "SEDE B": 50,
+                "SEDE C": 55,
+                "SEDE D": 50
+            }
+        },
+        {
+            "id": 49,
+            "preco_sugerido": 59,
+            "quantidade_disponivel": {
+                "SEDE A": 60,
+                "SEDE B": 55,
+                "SEDE C": 55,
+                "SEDE D": 50
+            }
+        }
+    ]
+}

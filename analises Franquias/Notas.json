@@ -1,0 +1,238 @@
+{
+    "avaliacoes": [
+        {
+            "id_produto": 8,
+            "avaliacao": "Produto de boa qualidade, mas o preço poderia ser mais competitivo.",
+            "nota": 4,
+            "data_avaliacao": "2024-07-15"
+        },
+        {
+            "id_produto": 15,
+            "avaliacao": "Excelente, superou minhas expectativas.",
+            "nota": 5,
+            "data_avaliacao": "2024-07-16"
+        },
+        {
+            "id_produto": 22,
+            "avaliacao": "Bom produto, entrega rápida.",
+            "nota": 4,
+            "data_avaliacao": "2024-07-17"
+        },
+        {
+            "id_produto": 33,
+            "avaliacao": "Qualidade mediana, poderia ser melhor.",
+            "nota": 3,
+            "data_avaliacao": "2024-07-18"
+        },
+        {
+            "id_produto": 45,
+            "avaliacao": "Produto chegou danificado.",
+            "nota": 2,
+            "data_avaliacao": "2024-07-19"
+        },
+        {
+            "id_produto": 1,
+            "avaliacao": "Muito bom, recomendo!",
+            "nota": 5,
+            "data_avaliacao": "2024-07-20"
+        },
+        {
+            "id_produto": 17,
+            "avaliacao": "Cumpre o que promete, mas o design poderia ser melhor.",
+            "nota": 4,
+            "data_avaliacao": "2024-07-21"
+        },
+        {
+            "id_produto": 28,
+            "avaliacao": "Bom custo-benefício.",
+            "nota": 4,
+            "data_avaliacao": "2024-07-22"
+        },
+        {
+            "id_produto": 35,
+            "avaliacao": "Produto excelente, recomendo!",
+            "nota": 5,
+            "data_avaliacao": "2024-07-23"
+        },
+        {
+            "id_produto": 42,
+            "avaliacao": "Não gostei, muito caro para o que oferece.",
+            "nota": 2,
+            "data_avaliacao": "2024-07-24"
+        },
+        {
+            "id_produto": 3,
+            "avaliacao": "Qualidade surpreendente, voltarei a comprar.",
+            "nota": 5,
+            "data_avaliacao": "2024-07-25"
+        },
+        {
+            "id_produto": 19,
+            "avaliacao": "Produto razoável, nada de especial.",
+            "nota": 3,
+            "data_avaliacao": "2024-07-26"
+        },
+        {
+            "id_produto": 27,
+            "avaliacao": "Entrega rápida, produto como descrito.",
+            "nota": 4,
+            "data_avaliacao": "2024-07-27"
+        },
+        {
+            "id_produto": 39,
+            "avaliacao": "Muito bom, atendeu minhas expectativas.",
+            "nota": 5,
+            "data_avaliacao": "2024-07-28"
+        },
+        {
+            "id_produto": 5,
+            "avaliacao": "Produto com defeito, decepcionado.",
+            "nota": 1,
+            "data_avaliacao": "2024-07-29"
+        },
+        {
+            "id_produto": 12,
+            "avaliacao": "Bom produto, mas o preço poderia ser mais acessível.",
+            "nota": 4,
+            "data_avaliacao": "2024-07-30"
+        },
+        {
+            "id_produto": 23,
+            "avaliacao": "Não recomendo, qualidade muito baixa.",
+            "nota": 1,
+            "data_avaliacao": "2024-07-31"
+        },
+        {
+            "id_produto": 31,
+            "avaliacao": "Muito bom, vale a pena o investimento.",
+            "nota": 5,
+            "data_avaliacao": "2024-08-01"
+        },
+        {
+            "id_produto": 49,
+            "avaliacao": "Produto excelente, recomendo!",
+            "nota": 5,
+            "data_avaliacao": "2024-08-02"
+        },
+        {
+            "id_produto": 48,
+            "avaliacao": "Entrega rápida, produto conforme o esperado.",
+            "nota": 4,
+            "data_avaliacao": "2024-08-03"
+        },
+        {
+            "id_produto": 45,
+            "avaliacao": "Produto com bom acabamento, gostei.",
+            "nota": 4,
+            "data_avaliacao": "2024-08-04"
+        },
+        {
+            "id_produto": 8,
+            "avaliacao": "Não funcionou como esperado.",
+            "nota": 2,
+            "data_avaliacao": "2024-08-05"
+        },
+        {
+            "id_produto": 15,
+            "avaliacao": "Muito bom, recomendo para todos.",
+            "nota": 5,
+            "data_avaliacao": "2024-08-06"
+        },
+        {
+            "id_produto": 22,
+            "avaliacao": "Preço justo, produto de qualidade.",
+            "nota": 4,
+            "data_avaliacao": "2024-08-07"
+        },
+        {
+            "id_produto": 33,
+            "avaliacao": "Qualidade média, poderia ser melhor.",
+            "nota": 3,
+            "data_avaliacao": "2024-08-08"
+        },
+        {
+            "id_produto": 17,
+            "avaliacao": "Produto atendeu às expectativas.",
+            "nota": 4,
+            "data_avaliacao": "2024-08-09"
+        },
+        {
+            "id_produto": 28,
+            "avaliacao": "Ótimo produto, vale o preço.",
+            "nota": 5,
+            "data_avaliacao": "2024-08-10"
+        },
+        {
+            "id_produto": 35,
+            "avaliacao": "Produto excelente, entrega rápida.",
+            "nota": 5,
+            "data_avaliacao": "2024-08-11"
+        },
+        {
+            "id_produto": 42,
+            "avaliacao": "Custo-benefício razoável.",
+            "nota": 3,
+            "data_avaliacao": "2024-08-12"
+        },
+        {
+            "id_produto": 1,
+            "avaliacao": "Produto atendeu minhas expectativas.",
+            "nota": 4,
+            "data_avaliacao": "2024-08-13"
+        },
+        {
+            "id_produto": 19,
+            "avaliacao": "Produto de boa qualidade, mas o preço é alto.",
+            "nota": 4,
+            "data_avaliacao": "2024-08-14"
+        },
+        {
+            "id_produto": 27,
+            "avaliacao": "Qualidade mediana, entrega rápida.",
+            "nota": 3,
+            "data_avaliacao": "2024-08-15"
+        },
+        {
+            "id_produto": 39,
+            "avaliacao": "Gostei muito, recomendo!",
+            "nota": 5,
+            "data_avaliacao": "2024-08-16"
+        },
+        {
+            "id_produto": 5,
+            "avaliacao": "Produto com defeito, muito insatisfeito.",
+            "nota": 1,
+            "data_avaliacao": "2024-08-17"
+        },
+        {
+            "id_produto": 12,
+            "avaliacao": "Bom, mas não excelente.",
+            "nota": 3,
+            "data_avaliacao": "2024-08-18"
+        },
+        {
+            "id_produto": 23,
+            "avaliacao": "Produto frágil, não recomendo.",
+            "nota": 2,
+            "data_avaliacao": "2024-08-19"
+        },
+        {
+            "id_produto": 31,
+            "avaliacao": "Produto excelente, cumpre o prometido.",
+            "nota": 5,
+            "data_avaliacao": "2024-08-20"
+        },
+        {
+            "id_produto": 49,
+            "avaliacao": "Qualidade excepcional, recomendo fortemente.",
+            "nota": 5,
+            "data_avaliacao": "2024-08-21"
+        },
+        {
+            "id_produto": 48,
+            "avaliacao": "Bom produto, mas esperava mais.",
+            "nota": 3,
+            "data_avaliacao": "2024-08-22"
+        }
+    ]
+}
